@@ -1,0 +1,3 @@
+[submodule "esearch"]
+	path = esearch
+	url = https://github.com/originals-tz/esearch.git
